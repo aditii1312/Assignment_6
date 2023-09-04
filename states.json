@@ -1,0 +1,9 @@
+states = {
+    "West Bengal ": "Kolkata",
+    "Maharashtra ": "Mumbai",
+    "Bihar": "Patna",
+    "Gujarat": "Gandhinagar",
+    "Assam": "Dispur",
+    "Tamil Nadu": "Chennai",
+    "Jammu and Kashmir":"Srinagar"
+}
